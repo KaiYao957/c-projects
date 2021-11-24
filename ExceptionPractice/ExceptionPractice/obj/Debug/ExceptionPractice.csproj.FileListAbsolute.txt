@@ -1,0 +1,7 @@
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\ExceptionPractice\ExceptionPractice\bin\Debug\ExceptionPractice.exe.config
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\ExceptionPractice\ExceptionPractice\bin\Debug\ExceptionPractice.exe
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\ExceptionPractice\ExceptionPractice\bin\Debug\ExceptionPractice.pdb
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\ExceptionPractice\ExceptionPractice\obj\Debug\ExceptionPractice.csproj.AssemblyReference.cache
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\ExceptionPractice\ExceptionPractice\obj\Debug\ExceptionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\ExceptionPractice\ExceptionPractice\obj\Debug\ExceptionPractice.exe
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\ExceptionPractice\ExceptionPractice\obj\Debug\ExceptionPractice.pdb

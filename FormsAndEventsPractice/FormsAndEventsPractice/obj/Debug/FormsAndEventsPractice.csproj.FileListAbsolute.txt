@@ -1,0 +1,10 @@
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\bin\Debug\FormsAndEventsPractice.exe.config
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\bin\Debug\FormsAndEventsPractice.exe
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\bin\Debug\FormsAndEventsPractice.pdb
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\obj\Debug\FormsAndEventsPractice.csproj.AssemblyReference.cache
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\obj\Debug\FormsAndEventsPractice.Properties.Resources.resources
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\obj\Debug\FormsAndEventsPractice.csproj.GenerateResource.cache
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\obj\Debug\FormsAndEventsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\obj\Debug\FormsAndEventsPractice.exe
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\obj\Debug\FormsAndEventsPractice.pdb
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\FormsAndEventsPractice\FormsAndEventsPractice\obj\Debug\FormsAndEventsPractice.Form1.resources

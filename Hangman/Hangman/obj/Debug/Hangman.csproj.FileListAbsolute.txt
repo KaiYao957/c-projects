@@ -1,0 +1,7 @@
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Kaining Yao\Desktop\Computer Projects\C#\Hangman\Hangman\obj\Debug\Hangman.pdb
