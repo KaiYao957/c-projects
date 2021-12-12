@@ -155,7 +155,8 @@ namespace Hangman
         static bool playAgain()
         {
             Console.WriteLine("Would you like to play again? (Type \"Yes\" to play again, or anything else to quit.)");
-            if(Console.ReadLine() == "Yes")
+            string response = Console.ReadLine();
+            if(response.ToUpper() == "YES")
             {
                 return true;
             }

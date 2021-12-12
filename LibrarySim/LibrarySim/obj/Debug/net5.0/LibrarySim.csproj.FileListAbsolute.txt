@@ -1,0 +1,16 @@
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\bin\Debug\net5.0\LibrarySim.exe
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\bin\Debug\net5.0\LibrarySim.deps.json
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\bin\Debug\net5.0\LibrarySim.runtimeconfig.json
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\bin\Debug\net5.0\LibrarySim.runtimeconfig.dev.json
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\bin\Debug\net5.0\LibrarySim.dll
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\bin\Debug\net5.0\ref\LibrarySim.dll
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\bin\Debug\net5.0\LibrarySim.pdb
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\LibrarySim.csproj.AssemblyReference.cache
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\LibrarySim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\LibrarySim.AssemblyInfoInputs.cache
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\LibrarySim.AssemblyInfo.cs
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\LibrarySim.csproj.CoreCompileInputs.cache
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\LibrarySim.dll
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\ref\LibrarySim.dll
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\LibrarySim.pdb
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\LibrarySim\LibrarySim\obj\Debug\net5.0\LibrarySim.genruntimeconfig.cache
