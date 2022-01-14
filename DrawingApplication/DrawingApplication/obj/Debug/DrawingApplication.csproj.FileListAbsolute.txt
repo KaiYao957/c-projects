@@ -1,0 +1,10 @@
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.exe.config
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.exe
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.pdb
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.AssemblyReference.cache
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.DrawingApp.resources
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.Properties.Resources.resources
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.GenerateResource.cache
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.CoreCompileInputs.cache
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.exe
+C:\Users\kaini_3gybd0t\Desktop\C#Projects\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.pdb
